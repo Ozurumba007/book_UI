@@ -1,8 +1,11 @@
 // ignore_for_file: prefer_const_constructors, prefer_const_literals_to_create_immutables
 
 import 'package:flutter/material.dart';
-import 'package:project_1/emoticon_face.dart';
-import 'package:project_1/excersice_tile.dart';
+import '/emoticon_face.dart';
+import '/excersice_tile.dart';
+
+import 'emoticon_face.dart';
+import 'excersice_tile.dart';
 
 class HomePage extends StatefulWidget {
   HomePage({Key? key}) : super(key: key);

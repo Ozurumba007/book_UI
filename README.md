@@ -1,4 +1,4 @@
-# project_1
+# Book UI
 
 A new Flutter project.
 
